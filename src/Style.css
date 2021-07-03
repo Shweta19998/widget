@@ -1,0 +1,88 @@
+.formWidget {
+  background-color: white;
+  width: 100rem;
+  height: 50rem;
+  margin: 3rem 9rem;
+  text-align: center;
+  border: 2.5px solid rgb(245, 160, 199);
+  padding: 5px;
+  box-shadow: inset 0 0 70px rgb(112, 18, 136);
+  font-family: "Noto Serif SC", serif;
+}
+.formWidget:hover {
+}
+.form-text {
+  color: rgb(70, 3, 97);
+  font-weight: 1000;
+  font-size: 80px;
+  text-shadow: 2px 2px rgb(176, 41, 230);
+  margin: 20px;
+}
+.form-div {
+  color: rgb(196, 44, 70);
+  font-weight: 3000;
+  font-size: 50px;
+}
+.form-para {
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+input[type="file"] {
+  display: none;
+}
+.button-style1 {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  padding: 20px 50px;
+  border-radius: 3%;
+  margin-right: 50px;
+  width: 26rem;
+  height: 6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  text-shadow: 3px 3px 5px white;
+  box-shadow: 5px 5px 5px rgb(143, 140, 140);
+}
+.button-style1:hover {
+  background-color: black;
+  color: white;
+}
+.select-icon {
+  width: 5rem;
+  height: 3rem;
+  display: inline-flex;
+  text-align: center;
+  margin: auto;
+  text-shadow: 3px 3px 5px white;
+}
+
+.button-style2 {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  padding: 20px 50px;
+  border-radius: 3%;
+  margin-left: 50px;
+  width: 26rem;
+  height: 6.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  text-shadow: 3px 3px 5px white;
+  box-shadow: 5px 5px 5px rgb(143, 140, 140);
+}
+
+.upload-icon {
+  width: 5rem;
+  height: 3rem;
+  display: inline-flex;
+  text-align: center;
+  margin: auto;
+  text-shadow: 3px 3px 5px white;
+}
+
+.card-icon {
+  width: 30rem;
+  height: 15rem;
+  color: rgb(22, 40, 41);
+}
